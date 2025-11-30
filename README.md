@@ -17,7 +17,6 @@ top
 ```
 
 ### 🔹 주요 화면 구성
-(예시 이미지)
 ![top example](https://github.com/user-attachments/assets/85384eae-e1da-478a-a086-dc56fb560737)
 
 ### 🔹 주요 기능 및 키 조작
@@ -51,7 +50,6 @@ ps aux | grep python
 ```
 
 ### 🔹 주요 화면 구성
-(예시 이미지)
 ![top example](https://github.com/user-attachments/assets/2a2c0339-337f-4a22-b0bb-8ae2a436668e)
 
 ---
