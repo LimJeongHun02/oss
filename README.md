@@ -1,7 +1,7 @@
 # Linux 기본 프로세스 관리 명령어 정리
 
 ## 📌 소개
-이 문서는 **top**, **ps**, **jobs**, **kill** 명령어에 대한 개념, 사용 예시, 옵션 등을 정리한 리포트입니다.  
+이 문서는 **top**, **ps**, **jobs**, **kill** 명령어에 대한 개념, 사용 예시, 옵션 등을 정리한 문서입니다.  
 
 
 ---
@@ -49,6 +49,10 @@ top
 ```
 ps aux | grep python
 ```
+
+### 🔹 주요 화면 구성
+(예시 이미지)
+![top example](https://github.com/user-attachments/assets/2a2c0339-337f-4a22-b0bb-8ae2a436668e)
 
 ---
 
@@ -98,11 +102,3 @@ kill -15 PID
 ```
 
 ---
-
-## 📚 참고 자료
-- Linux 공식 매뉴얼 (`man top`, `man ps`, `man jobs`, `man kill`)
-- 온라인 리눅스 문서 및 튜토리얼
-
----
-
-
