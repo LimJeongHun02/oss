@@ -18,7 +18,7 @@ top
 
 ### 🔹 주요 화면 구성
 (예시 이미지)
-![top example](https://upload.wikimedia.org/wikipedia/commons/5/56/Linux_top.png)
+![top example](https://github.com/user-attachments/assets/85384eae-e1da-478a-a086-dc56fb560737)
 
 ### 🔹 주요 기능 및 키 조작
 - **P** : CPU 사용량 기준 정렬
@@ -105,8 +105,4 @@ kill -15 PID
 
 ---
 
-## ✨ 마무리
-이 문서는 리눅스 시스템에서 기본적으로 사용되는 프로세스 관리 명령어를 정리했습니다. 각 명령어를 익혀두면 시스템 모니터링과 프로세스 제어에 큰 도움이 됩니다.
-
-필요하면 GitHub에 바로 업로드할 수 있도록 구조를 구성했습니다!
 
